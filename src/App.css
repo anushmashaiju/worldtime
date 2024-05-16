@@ -1,0 +1,9 @@
+
+body {
+  background-image: linear-gradient(to right, rgb(123, 189, 212) , rgb(216, 236, 241));;
+  background-size: cover;
+  background-position: center;
+  font-family: Arial, sans-serif; /* Example font-family */
+  margin: 0;
+  padding: 0;
+}
